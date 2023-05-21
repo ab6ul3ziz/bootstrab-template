@@ -359,7 +359,7 @@ ul {
 }
 
 .about-us .box-2 a {
-  padding: 10px 30px;
+  padding: 10px 32;
   border: 2px solid var(--blue-color);
   border-radius: 4px;
   font-weight: bold;
@@ -476,7 +476,7 @@ ul {
 .call-action .row .link a {
   text-align: center;
   border: 1px solid var(--bg-2-color);
-  padding: 15px 25px;
+  padding: 15px 35px;
   border-radius: 30px;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
