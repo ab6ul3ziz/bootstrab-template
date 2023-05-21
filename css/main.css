@@ -364,6 +364,7 @@ ul {
   border-radius: 4px;
   font-weight: bold;
   margin-top: 10px;
+  display: inline-block;
 }
 
 .about-us .box-2 a:hover {
@@ -474,6 +475,7 @@ ul {
 }
 
 .call-action .row .link a {
+  display: inline-block;
   text-align: center;
   border: 1px solid var(--bg-2-color);
   padding: 15px 35px;
